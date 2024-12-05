@@ -1,0 +1,6 @@
+#ignore file 
+
+.env
+node_modules/  
+
+# / :- All file
